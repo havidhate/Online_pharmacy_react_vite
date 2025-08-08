@@ -58,3 +58,4 @@ npm install
 
 : Live site:
 https://splendorous-horse-d197b5.netlify.app/
+deploy link:https://splendorous-horse-d197b5.netlify.app/
